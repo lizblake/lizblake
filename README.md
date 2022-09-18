@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lizblake
 - 👀 I’m interested in re, osint, and sometimes web & app dev.
 - 🌱 Did some work with web components in IST 402 at Penn State.
-- 💞️ I’m looking to collaborate soemething.
+- 💞️ Passionate about everything tech.
 - 📫 How to reach me: elizabethblake@psu.edu
 
 <!---
