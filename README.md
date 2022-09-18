@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizblake
-- 👀 I’m interested in cybersecurity and open source intelligence.
-- 🌱 I’m currently learning web components in IST 402 at Penn State.
+- 👀 I’m interested in re, osint, and sometimes web & app dev.
+- 🌱 Did some work with web components in IST 402 at Penn State.
 - 💞️ I’m looking to collaborate soemething.
 - 📫 How to reach me: elizabethblake@psu.edu
 
