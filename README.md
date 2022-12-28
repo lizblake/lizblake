@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lizblake
-- 👀 I’m interested in re, osint, and sometimes web & app dev.
-- 🌱 Did some work with web components in IST 402 at Penn State.
-- 💞️ Passionate about everything tech.
+- 👩‍💼 I'm currently a senior at Penn State studying Cybersecurity, and I'll be full-time on the Security Risk Advisors red team starting this summer!
+- 👀 I’m interested in anything I can get my hands on.
+- 🎨 Graphic design is cool too. 
 - 📫 How to reach me: elizabethblake@psu.edu
 
 <!---
